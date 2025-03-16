@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import boto3  # Assuming you are using `boto3` for Huawei Cloud SDK
 
 # Specify the path to your .env file
-env_path = '/path/to/your/.env'
+env_path = 'C:\work\IMC\DIP\DIP-TM-TEST\.env'
 load_dotenv(dotenv_path=env_path)
 
 # Load Huawei Cloud configuration from environment variables

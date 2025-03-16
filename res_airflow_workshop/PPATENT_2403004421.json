@@ -1,0 +1,53 @@
+{
+    "ApplicationNumber": "2403004421",
+    "RelatedApplication": "3",
+    "RelatedApplicatioDetails": "อนุสิทธิบัตร",
+    "ApplicationDate": "31/12/2024",
+    "PublicationNumber": null,
+    "PatentNumber": null,
+    "Title": "ผลิตภัณฑ์เสริมอาหารจากสารสกัดมะกอก, สารสกัดองุ่นและผิวองุ่น, สารสกัดทับทิม, วิตามินบี3, วิตามินซีและสารสกัดพริกไทยดำ",
+    "PublicationPage": null,
+    "PriorityApplicationNumber": null,
+    "FirstPriorityDate": null,
+    "PriorityApplicationCountry": null,
+    "PCT": "ไม่ใช่คําขอ PCT",
+    "PCTApplicationNumber": null,
+    "TAGS_NAME": null,
+    "Claim": "OCR 06WT ผลิตภัณฑ์เสริมอาหารที่ประกอบด้วยสารสกัดจากมะกอก ,สารสกัดจากทับทิม ,สารสกัดพริกไทยดำ ,สารสกัดจากองุ่น และผิวองุ่น ที่ประกอบด้วย สารสกัดจากมะกอก 25 มิลลิกรัม สารสกัดจากองุ่น 100 มิลลิกรัม สารสกัดจากทับทิม 50 มิลลิกรัม วิตามิน บี 3 10 มิลลิกรัม วิตามิน ซี 67 มิลลิกรัม สารสกัดจากเปลือกองุ่น 50 มิลลิกรัม สารสกัดจากพริกไทยดำ 5 มิลลิกรัม",
+    "Abstract": "ไม่ระบุ",
+    "CurrentStatusCode": 12,
+    "CurrentStatusDate": "22/01/2025",
+    "ApplicantInformation": [
+        {
+            "Applicant": "1. บริษัท 3ซี นูทราซูติคอล ดีเวลลอปเปอร์ จำกัด",
+            "ApplicantNationalityCode": "ลำดับที่ 1. ไทย"
+        }
+    ],
+    "InventorInformation": [
+        {
+            "Inventor": "1. นายณัฐพล ส่งพรประเสริฐ",
+            "InventorNationalityCode": "ลำดับที่ 1. ไทย"
+        }
+    ],
+    "AgenInformation": [],
+    "IPCClasses": "A23L 1/06",
+    "ApplicantNationalityCode": "ลำดับที่ 1. ไทย",
+    "InventorNationalityCode": "ลำดับที่ 1. ไทย",
+    "PublicAttachURL": "https://patentpub.ipthailand.go.th/_AppPublic/PublicAttach.aspx?appno=2403004421",
+    "DisplayImageURL1": "https://patentsearch.ipthailand.go.th/DIPSearch/Tools/DisplayImage.aspx?appno=2403004421&type=2",
+    "DisplayImageURL2": "https://patentsearch.ipthailand.go.th/DIPSearch/Tools/DisplayImage.aspx?appno=2403004421&type=97",
+    "PublicDocURL": "https://patentpub.ipthailand.go.th/_AppPublic/public_doc.aspx?appno=2403004421",
+    "PublicationDate": null,
+    "OppositionDate": null,
+    "CheckDate": null,
+    "RegistrationDate": null,
+    "ApplicationRejectDate": null,
+    "ApplicationLeaveDate": null,
+    "GrantedDate": null,
+    "PaymentDate": "31/12/2024",
+    "ExpiryDate": null,
+    "ReceivingOfficeDate": null,
+    "PCTApplicationDate": null,
+    "AGENTID": null,
+    "LicenceDate": null
+}

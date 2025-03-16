@@ -1,0 +1,49 @@
+{
+    "ApplicationNumber": "0302003555",
+    "RelatedApplication": "2",
+    "RelatedApplicationDetails": "สิทธิบัตรการออกแบบ",
+    "ApplicationDate": "31/12/2003",
+    "PublicationNumber": "75227",
+    "PatentNumber": "26820",
+    "Title": "ด้ามสำหรับอุปกรณ์แต่งทรงผม",
+    "PublicationPage": null,
+    "Claim": "ขอถือสิทธิในแบบผลิตภัณฑ์ซึ่งได้แก่รูปร่างลักษณะของด้ามสำหรับอุปกรณ์แต่งทรงผม ตามที่ปรากฎในภาพแสดง แบบผลิตภัณฑ์ที่ได้เสนอมานี้",
+    "Abstract": "ไม่ระบุ",
+    "CurrentStatusCode": 10270,
+    "CurrentStatusDate": "31/12/2013",
+    "ApplicantInformation": [
+        {
+            "Applicant": "1. โคนิงค์ลิจ์ค ฟิลิปส์ อิเล็กทรอนิคส์ เอ็น.วี. ",
+            "ApplicantNationalityCode": "ลำดับที่ 1. ไม่ระบุสัญชาติ"
+        }
+    ],
+    "InventorInformation": [
+        {
+            "Inventor": "1. นายไซม่อน เจ. ลามาสัน",
+            "InventorNationalityCode": "https://patentpub.ipthailand.go.th/_AppPublic/PublicAttach.aspx?appno=0302003555"
+        }
+    ],
+    "AgenInformation": [
+        {
+            "Agent": "2. นายจักรพรรดิ์ มงคลสิทธิ์   4. นายบุญมา เตชะวณิช   3. นายต่อพงศ์ โทณะวณิก   1. นางสาวปรับโยชน์ ศรีกิจจาภรณ์"
+        }
+    ],
+    "IPCClasses": "ลำดับที่ 1. เนเธอร์แลนด์",
+    "PublicAttachURL": "https://patentsearch.ipthailand.go.th/DIPSearch/Tools/DisplayImage.aspx?appno=0302003555&type=2",
+    "DisplayImageURL1": "https://patentsearch.ipthailand.go.th/DIPSearch/Tools/DisplayImage.aspx?appno=0302003555&type=97",
+    "DisplayImageURL2": null,
+    "PublicationDate": null,
+    "OppositionDate": "2009-10-20",
+    "DesignRegistrationDate": null,
+    "ApplicationRejectDate": null,
+    "DesignApplicationLeaveDate": null,
+    "LicenceDate": "2009-10-22",
+    "PaymentDate": null,
+    "DesignApplicationWithdrawnDate": null,
+    "PriorityDate": "2013-12-31",
+    "ExpiryDate": "ลำดับที่ 1. 1201  ลำดับที่ 2. 1202  ลำดับที่ 3. 13  ลำดับที่ 4. 882",
+    "AGENTID": "30/12/2003",
+    "ReceivingOfficeDate": "15/10/2009",
+    "GrantedDate": null,
+    "SpecimenDetails": null
+}
