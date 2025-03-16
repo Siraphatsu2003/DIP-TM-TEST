@@ -1,0 +1,7 @@
+huaweicloudsdkcore>=3.1.121
+huaweicloudsdkobs>=3.1.121
+huaweicloudsdkiam>=3.1.121
+esdk-obs-python==3.24.6
+tqdm==4.66.4
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.9.3/constraints-3.9.txt"
+# requirements.txt

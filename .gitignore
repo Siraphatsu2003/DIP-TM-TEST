@@ -1,0 +1,9 @@
+*.log
+/logs/
+/rawdata_obs/
+.env
+**/__pycache__
+/.vscode/
+/notebook/
+ip
+airflow-init.yaml
