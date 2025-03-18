@@ -24,6 +24,7 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    - ${AIRFLOW_PROJ_DIR:-.}/output_airflow:/opt/airflow/output_airflow  # Added this line
     - ./requirements.txt:/opt/airflow/requirements.txt
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
@@ -91,6 +92,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - /image/airflow/rawdata_obs/TM:/image/airflow/rawdata_obs/TM
+      - ./output_airflow:/opt/airflow/output_airflow
     healthcheck:
       test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
       interval: 30s
@@ -110,6 +112,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - /image/airflow/rawdata_obs/TM:/image/airflow/rawdata_obs/TM
+      - ./output_airflow:/opt/airflow/output_airflow
     healthcheck:
       test: ["CMD", "curl", "--fail", "http://localhost:8974/health"]
       interval: 30s
@@ -129,6 +132,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - /image/airflow/rawdata_obs/TM:/image/airflow/rawdata_obs/TM
+      - ./output_airflow:/opt/airflow/output_airflow
     healthcheck:
       test:
         - "CMD-SHELL"
